@@ -197,4 +197,9 @@ Procedimento baseado no guia [Como Limpar Cache de Memória no Linux: O Guia Def
 
 - MIT
 
+## Contribuidores
+
+- CarvalhoFnix
+- Claude
+
 ### Versão 1.0
