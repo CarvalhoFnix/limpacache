@@ -195,4 +195,4 @@ Procedimento baseado no guia [Como Limpar Cache de Memória no Linux: O Guia Def
 
 ## Licença
 
-Defina a licença do seu projeto aqui (por exemplo, MIT) e adicione o arquivo `LICENSE` ao repositório.
+- MIT
