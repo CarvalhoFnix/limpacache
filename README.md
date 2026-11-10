@@ -80,7 +80,7 @@ Como o `/proc/sys/vm/drop_caches` é uma interface do próprio kernel, o mesmo c
 ### 2. Baixe, compile e instale
 
 ```bash
-git clone https://github.com/SEU-USUARIO/limpacache.git
+git clone https://github.com/CarvalhoFnix/limpacache
 cd limpacache
 make
 sudo make install     # instala em /usr/local/bin
